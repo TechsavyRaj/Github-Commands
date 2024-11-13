@@ -12,7 +12,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 - [Tags](#tags)
 - [Collaborer](#collaborer)
 - [Commandes avancées](#commandes-avancées)
-- [Cheatsheet Translations](#translations)
+- [Aide-mémoire sur les traductions](#translations)
 
 ---
 
@@ -126,5 +126,4 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 - [Português](README.pt.md)
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
-- [العربية](READMEar.md)
 - [हिन्दी](README.hi.md)

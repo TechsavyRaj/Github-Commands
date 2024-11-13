@@ -12,6 +12,7 @@
 - [タグ](#タグ)
 - [共同作業](#共同作業)
 - [高度なコマンド](#高度なコマンド)
+- [チートシート翻訳](#translations)
 
 ---
 
@@ -125,5 +126,4 @@
 - [Português](README.pt.md)
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
-- [العربية](READMEar.md)
 - [हिन्दी](README.hi.md)

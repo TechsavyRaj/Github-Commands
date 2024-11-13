@@ -12,7 +12,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 - [Etiquetas](#etiquetas)
 - [Colaboración](#colaboración)
 - [Comandos Avanzados](#comandos-avanzados)
-- [Cheatsheet Translations](#translations)
+- [Traducciones de hojas de referencia](#translations)
 
 ---
 
@@ -126,5 +126,4 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 - [Português](README.pt.md)
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
-- [العربية](READMEar.md)
 - [हिन्दी](README.hi.md)

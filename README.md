@@ -117,6 +117,7 @@ A simple list of useful Git commands that developers commonly use :-
 | `git submodule add <url>`      | Add a submodule to the repository.           |
 | `git bisect`                   | Use binary search to find the commit that introduced a bug. |
 
+---
 
 ## Translations
 - [English](README.md)
@@ -125,5 +126,4 @@ A simple list of useful Git commands that developers commonly use :-
 - [Português](README.pt.md)
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
-- [العربية](READMEar.md)
 - [हिन्दी](README.hi.md)
