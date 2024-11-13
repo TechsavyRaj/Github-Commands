@@ -118,8 +118,7 @@ A simple list of useful Git commands that developers commonly use :-
 | `git bisect`                   | Use binary search to find the commit that introduced a bug. |
 
 
-## Translations -
-
+## Translations
 - [English](README.md)
 - [Español](README.es.md)
 - [Française](README.fr.md)
