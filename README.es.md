@@ -12,6 +12,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 - [Etiquetas](#etiquetas)
 - [Colaboración](#colaboración)
 - [Comandos Avanzados](#comandos-avanzados)
+- [Cheatsheet Translations](#translations)
 
 ---
 
@@ -115,3 +116,15 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 | `git config --global <key> <value>` | Configurar ajustes de Git globalmente.        |
 | `git submodule add <url>`           | Agregar un submódulo al repositorio.          |
 | `git bisect`                        | Usar búsqueda binaria para encontrar el commit que introdujo un error. |
+
+---
+
+## Translations
+- [English](README.md)
+- [Español](README.es.md)
+- [Française](README.fr.md)
+- [Português](README.pt.md)
+- [Türkçe](README.tr.md)
+- [日本語](README.jp.md)
+- [العربية](READMEar.md)
+- [हिन्दी](README.hi.md)
