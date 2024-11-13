@@ -11,7 +11,7 @@ A simple list of useful Git commands that developers commonly use :-
 | `git clone <url>`     | Clone an existing repository.           |
 | `git status`          | Show the working directory status.      |
 | `git log`             | Show the commit history.                |
-| `git show <commit>`   | Show details of a specific commit.       |
+| `git show <commit>`   | Show details of a specific commit.      |
 
 ---
 
@@ -32,10 +32,11 @@ A simple list of useful Git commands that developers commonly use :-
 |--------------------------------|----------------------------------------------|
 | `git branch`                   | List all branches.                          |
 | `git branch <branch-name>`     | Create a new branch.                        |
+| `git branch -d <branch-name>`  | Delete a branch.                            |
 | `git checkout <branch-name>`   | Switch to a branch.                         |
 | `git checkout -b <branch-name>`| Create and switch to a new branch.          |
 | `git merge <branch-name>`      | Merge a branch into the current branch.     |
-| `git branch -d <branch-name>`  | Delete a branch.                            |
+| `git merge --squash <branch-name>`| Squash multiple commits into one during branch merge. |
 
 ---
 
@@ -43,6 +44,7 @@ A simple list of useful Git commands that developers commonly use :-
 | Command                  | Description                                   |
 |--------------------------|-----------------------------------------------|
 | `git stash`              | Save uncommitted changes for later use.      |
+| `git stash push -m <message>`| Save uncommitted changes with message.   |
 | `git stash list`         | List all stashes.                            |
 | `git stash apply`        | Apply the most recent stash.                 |
 | `git stash apply <stash>`| Apply a specific stash.                      |
