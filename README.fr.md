@@ -12,6 +12,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 - [Tags](#tags)
 - [Collaborer](#collaborer)
 - [Commandes avancées](#commandes-avancées)
+- [Cheatsheet Translations](#translations)
 
 ---
 
@@ -115,3 +116,15 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 | `git config --global <key> <value>` | Configurer les paramètres Git globalement.    |
 | `git submodule add <url>`           | Ajouter un sous-module au dépôt.              |
 | `git bisect`                        | Utiliser la recherche binaire pour trouver le commit qui a introduit un bug. |
+
+---
+
+## Translations
+- [English](README.md)
+- [Español](README.es.md)
+- [Française](README.fr.md)
+- [Português](README.pt.md)
+- [Türkçe](README.tr.md)
+- [日本語](README.jp.md)
+- [العربية](READMEar.md)
+- [हिन्दी](README.hi.md)
