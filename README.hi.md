@@ -1,5 +1,3 @@
-Here is your Git Commands Cheat Sheet translated into Hindi:
-
 # गिट कमांड्स चीट शीट
 
 डेवलपर्स द्वारा अक्सर उपयोग किए जाने वाले उपयोगी गिट कमांड्स की एक सरल सूची:-

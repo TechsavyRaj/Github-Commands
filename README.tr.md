@@ -1,5 +1,3 @@
-Here is your Git Commands Cheat Sheet translated into Turkish:
-
 # Git Komutları Hızlı Başvuru Kılavuzu
 
 Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir listesi:-

@@ -1,5 +1,3 @@
-Here is your Git Commands Cheat Sheet translated into Portuguese:
-
 # Folha de Referência de Comandos Git
 
 Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar:-
