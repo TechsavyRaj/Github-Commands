@@ -12,6 +12,7 @@ A simple list of useful Git commands that developers commonly use :-
 - [Tags](#tags)
 - [Collaborating](#collaborating)
 - [Advanced Commands](#advanced-commands)
+- [Cheatsheet Translations](#translations)
 
 ---
 
@@ -115,3 +116,15 @@ A simple list of useful Git commands that developers commonly use :-
 | `git config --global <key> <value>` | Configure Git settings globally.          |
 | `git submodule add <url>`      | Add a submodule to the repository.           |
 | `git bisect`                   | Use binary search to find the commit that introduced a bug. |
+
+
+## Translations -
+
+- [English](README.md)
+- [Español](README.es.md)
+- [Française](README.fr.md)
+- [Português](README.pt.md)
+- [Türkçe](README.tr.md)
+- [日本語](README.jp.md)
+- [العربية](READMEar.md)
+- [हिन्दी](README.hi.md)
