@@ -4,7 +4,20 @@ A simple list of useful Git commands that developers commonly use :-
 
 # Git Commands Cheat Sheet
 
-## 1. **Basic Commands**
+## Table of Contents
+- [Basic Commands](#basic-commands)
+- [Working with Commits](#working-with-commits)
+- [Branching](#branching)
+- [Stashing](#stashing)
+- [Remote Repositories](#remote-repositories)
+- [Undoing Changes](#undoing-changes)
+- [Tags](#tags)
+- [Collaborating](#collaborating)
+- [Advanced Commands](#advanced-commands)
+
+---
+
+## Basic Commands
 | Command               | Description                              |
 |-----------------------|------------------------------------------|
 | `git init`            | Initialize a new Git repository.        |
@@ -15,7 +28,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 2. **Working with Commits**
+## Working with Commits
 | Command                       | Description                                   |
 |-------------------------------|-----------------------------------------------|
 | `git add <file>`              | Add a file to the staging area.              |
@@ -27,7 +40,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 3. **Branching**
+## Branching
 | Command                        | Description                                  |
 |--------------------------------|----------------------------------------------|
 | `git branch`                   | List all branches.                          |
@@ -40,7 +53,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 4. **Stashing**
+## Stashing
 | Command                  | Description                                   |
 |--------------------------|-----------------------------------------------|
 | `git stash`              | Save uncommitted changes for later use.      |
@@ -52,7 +65,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 5. **Remote Repositories**
+## Remote Repositories
 | Command                                   | Description                                   |
 |-------------------------------------------|-----------------------------------------------|
 | `git remote -v`                           | Show remote repositories.                    |
@@ -64,7 +77,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 6. **Undoing Changes**
+## Undoing Changes
 | Command                        | Description                                   |
 |--------------------------------|-----------------------------------------------|
 | `git checkout -- <file>`       | Discard changes to a file.                   |
@@ -74,7 +87,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 7. **Tags**
+## Tags
 | Command                    | Description                                   |
 |----------------------------|-----------------------------------------------|
 | `git tag`                  | List all tags.                               |
@@ -85,7 +98,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 8. **Collaborating**
+## Collaborating
 | Command                             | Description                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Fetch and merge changes from a remote branch. |
@@ -96,7 +109,7 @@ A simple list of useful Git commands that developers commonly use :-
 
 ---
 
-## 9. **Advanced Commands**
+## Advanced Commands
 | Command                        | Description                                   |
 |--------------------------------|-----------------------------------------------|
 | `git diff`                     | Show changes between commits, branches, or working directory. |
