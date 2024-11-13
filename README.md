@@ -1,8 +1,6 @@
-A simple list of useful Git commands that developers commonly use :-
-
----
-
 # Git Commands Cheat Sheet
+
+A simple list of useful Git commands that developers commonly use :-
 
 ## Table of Contents
 - [Basic Commands](#basic-commands)
