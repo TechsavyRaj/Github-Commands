@@ -3,6 +3,7 @@
 Una lista simple de comandos útiles de Git que los desarrolladores utilizan comúnmente:
 
 ## Tabla de Contenidos
+
 - [Comandos Básicos](#comandos-básicos)
 - [Trabajar con Commits](#trabajar-con-commits)
 - [Branching](#branching)
@@ -17,6 +18,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Comandos Básicos
+
 | Comando                   | Descripción                                   |
 |---------------------------|-----------------------------------------------|
 | `git init`                | Inicializar un nuevo repositorio Git.         |
@@ -28,6 +30,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Trabajar con Commits
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git add <file>`                    | Agregar un archivo al área de preparación.    |
@@ -40,6 +43,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Branching
+
 | Comando                             | Descripción                                    |
 |-------------------------------------|------------------------------------------------|
 | `git branch`                        | Listar todas las ramas.                        |
@@ -53,6 +57,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Stashing
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git stash`                         | Guardar cambios no confirmados para uso posterior. |
@@ -60,11 +65,14 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 | `git stash list`                    | Listar todos los stashes.                     |
 | `git stash apply`                   | Aplicar el stash más reciente.                |
 | `git stash apply <stash>`           | Aplicar un stash específico.                  |
+| `git stash pop`          | Aplica el stash más reciente y lo elimina de la lista de stashes. |
+| `git stash pop <stash>`  | Aplica un stash específico y lo elimina de la lista de stashes. |
 | `git stash drop`                    | Eliminar un stash específico.                 |
 
 ---
 
 ## Repositorios Remotos
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git remote -v`                     | Mostrar los repositorios remotos.             |
@@ -77,6 +85,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Deshacer Cambios
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git checkout -- <file>`            | Descartar cambios en un archivo.              |
@@ -87,6 +96,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Etiquetas
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git tag`                           | Listar todas las etiquetas.                   |
@@ -98,6 +108,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Colaboración
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Obtener y fusionar cambios de una rama remota.|
@@ -109,6 +120,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Comandos Avanzados
+
 | Comando                             | Descripción                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git diff`                          | Mostrar cambios entre commits, ramas o el directorio de trabajo. |
@@ -120,6 +132,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 ---
 
 ## Translations
+
 - [English](README.md)
 - [Español](README.es.md)
 - [Française](README.fr.md)

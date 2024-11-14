@@ -3,6 +3,7 @@
 Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir listesi:-
 
 ## İçindekiler
+
 - [Temel Komutlar](#temel-komutlar)
 - [Commit'lerle Çalışma](#commitlerle-çalışma)
 - [Dallanma](#dallanma)
@@ -17,6 +18,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Temel Komutlar
+
 | Komut               | Açıklama                                  |
 |---------------------|-------------------------------------------|
 | `git init`          | Yeni bir Git deposu başlatır.             |
@@ -28,6 +30,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Commit'lerle Çalışma
+
 | Komut                         | Açıklama                                   |
 |-------------------------------|--------------------------------------------|
 | `git add <file>`              | Bir dosyayı stage alanına ekler.           |
@@ -40,6 +43,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Dallanma
+
 | Komut                          | Açıklama                                  |
 |--------------------------------|-------------------------------------------|
 | `git branch`                   | Tüm branch'leri listeler.                 |
@@ -53,6 +57,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Stashing
+
 | Komut                    | Açıklama                                  |
 |--------------------------|-------------------------------------------|
 | `git stash`              | Commit edilmemiş değişiklikleri daha sonra kullanmak üzere saklar.|
@@ -60,11 +65,14 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 | `git stash list`         | Tüm stash'leri listeler.                   |
 | `git stash apply`        | En son saklanan stash'i uygular.           |
 | `git stash apply <stash>`| Belirli bir stash'i uygular.               |
+| `git stash pop`          | En son stashi uygular ve stash listesinden kaldırır. |
+| `git stash pop <stash>`  | Belirli bir stashi uygular ve stash listesinden kaldırır. |
 | `git stash drop`         | Belirli bir stash'i siler.                 |
 
 ---
 
 ## Uzak Depolar
+
 | Komut                                 | Açıklama                                  |
 |---------------------------------------|-------------------------------------------|
 | `git remote -v`                       | Uzak depoları gösterir.                   |
@@ -77,6 +85,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Değişiklikleri Geri Alma
+
 | Komut                          | Açıklama                                  |
 |--------------------------------|-------------------------------------------|
 | `git checkout -- <dosya>`      | Bir dosyada yapılan değişiklikleri iptal eder.|
@@ -87,6 +96,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Etiketler
+
 | Komut                      | Açıklama                                  |
 |----------------------------|-------------------------------------------|
 | `git tag`                  | Tüm etiketleri listeler.                  |
@@ -98,6 +108,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Birlikte Çalışma
+
 | Komut                             | Açıklama                                  |
 |-----------------------------------|-------------------------------------------|
 | `git pull`                        | Bir uzak branch'ten değişiklikleri alır ve birleştirir.|
@@ -109,6 +120,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Gelişmiş Komutlar
+
 | Komut                          | Açıklama                                  |
 |--------------------------------|-------------------------------------------|
 | `git diff`                     | Commit'ler, branch'ler veya çalışma dizini arasındaki değişiklikleri gösterir.|
@@ -120,6 +132,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 ---
 
 ## Translations
+
 - [English](README.md)
 - [Español](README.es.md)
 - [Française](README.fr.md)

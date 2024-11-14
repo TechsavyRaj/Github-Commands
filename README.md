@@ -3,6 +3,7 @@
 A simple list of useful Git commands that developers commonly use :-
 
 ## Table of Contents
+
 - [Basic Commands](#basic-commands)
 - [Working with Commits](#working-with-commits)
 - [Branching](#branching)
@@ -17,6 +18,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Basic Commands
+
 | Command               | Description                              |
 |-----------------------|------------------------------------------|
 | `git init`            | Initialize a new Git repository.        |
@@ -28,6 +30,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Working with Commits
+
 | Command                       | Description                                   |
 |-------------------------------|-----------------------------------------------|
 | `git add <file>`              | Add a file to the staging area.              |
@@ -40,6 +43,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Branching
+
 | Command                        | Description                                  |
 |--------------------------------|----------------------------------------------|
 | `git branch`                   | List all branches.                          |
@@ -53,6 +57,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Stashing
+
 | Command                  | Description                                   |
 |--------------------------|-----------------------------------------------|
 | `git stash`              | Save uncommitted changes for later use.      |
@@ -60,11 +65,14 @@ A simple list of useful Git commands that developers commonly use :-
 | `git stash list`         | List all stashes.                            |
 | `git stash apply`        | Apply the most recent stash.                 |
 | `git stash apply <stash>`| Apply a specific stash.                      |
+| `git stash pop`          | Apply the most recent stash & removes it from stash list. |
+| `git stash pop <stash>`  | Apply a specific stash & removes it from stash list. |
 | `git stash drop`         | Delete a specific stash.                     |
 
 ---
 
 ## Remote Repositories
+
 | Command                                   | Description                                   |
 |-------------------------------------------|-----------------------------------------------|
 | `git remote -v`                           | Show remote repositories.                    |
@@ -77,6 +85,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Undoing Changes
+
 | Command                        | Description                                   |
 |--------------------------------|-----------------------------------------------|
 | `git checkout -- <file>`       | Discard changes to a file.                   |
@@ -87,6 +96,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Tags
+
 | Command                    | Description                                   |
 |----------------------------|-----------------------------------------------|
 | `git tag`                  | List all tags.                               |
@@ -98,6 +108,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Collaborating
+
 | Command                             | Description                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Fetch and merge changes from a remote branch. |
@@ -109,6 +120,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Advanced Commands
+
 | Command                        | Description                                   |
 |--------------------------------|-----------------------------------------------|
 | `git diff`                     | Show changes between commits, branches, or working directory. |
@@ -120,6 +132,7 @@ A simple list of useful Git commands that developers commonly use :-
 ---
 
 ## Translations
+
 - [English](README.md)
 - [Español](README.es.md)
 - [Française](README.fr.md)

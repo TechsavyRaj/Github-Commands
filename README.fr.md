@@ -3,6 +3,7 @@
 Une liste simple des commandes Git utiles que les développeurs utilisent couramment :
 
 ## Table des matières
+
 - [Commandes de base](#commandes-de-base)
 - [Travailler avec des commits](#travailler-avec-des-commits)
 - [Brancher](#brancher)
@@ -17,6 +18,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Commandes de base
+
 | Commande                 | Description                                      |
 |--------------------------|--------------------------------------------------|
 | `git init`               | Initialiser un nouveau dépôt Git.                |
@@ -28,6 +30,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Travailler avec des commits
+
 | Commande                            | Description                                    |
 |-------------------------------------|------------------------------------------------|
 | `git add <file>`                    | Ajouter un fichier à la zone de staging.       |
@@ -40,6 +43,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Brancher
+
 | Commande                             | Description                                     |
 |--------------------------------------|-------------------------------------------------|
 | `git branch`                         | Lister toutes les branches.                     |
@@ -53,6 +57,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Mise en réserve
+
 | Commande                   | Description                                    |
 |----------------------------|------------------------------------------------|
 | `git stash`                | Sauvegarder les modifications non committées pour une utilisation ultérieure. |
@@ -60,11 +65,14 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 | `git stash list`           | Lister toutes les réserves.                    |
 | `git stash apply`          | Appliquer la réserve la plus récente.          |
 | `git stash apply <stash>`  | Appliquer une réserve spécifique.              |
+| `git stash pop`          | Appliquer le stash le plus récent et le supprimer de la liste des stashes. |
+| `git stash pop <stash>`  | Appliquer un stash spécifique et le supprimer de la liste des stashes. |
 | `git stash drop`           | Supprimer une réserve spécifique.              |
 
 ---
 
 ## Dépôts distants
+
 | Commande                                   | Description                                    |
 |--------------------------------------------|------------------------------------------------|
 | `git remote -v`                            | Afficher les dépôts distants.                  |
@@ -77,6 +85,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Annuler des changements
+
 | Commande                             | Description                                   |
 |--------------------------------------|-----------------------------------------------|
 | `git checkout -- <file>`             | Annuler les modifications d'un fichier.       |
@@ -87,6 +96,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Tags
+
 | Commande                             | Description                                   |
 |--------------------------------------|-----------------------------------------------|
 | `git tag`                            | Lister tous les tags.                         |
@@ -98,6 +108,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Collaborer
+
 | Commande                            | Description                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Récupérer et fusionner les modifications d'une branche distante. |
@@ -109,6 +120,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Commandes avancées
+
 | Commande                            | Description                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git diff`                          | Afficher les différences entre les commits, les branches ou le répertoire de travail. |
@@ -120,6 +132,7 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 ---
 
 ## Translations
+
 - [English](README.md)
 - [Español](README.es.md)
 - [Française](README.fr.md)

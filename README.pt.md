@@ -3,6 +3,7 @@
 Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar:-
 
 ## Índice
+
 - [Comandos Básicos](#comandos-básicos)
 - [Trabalhando com Commits](#trabalhando-com-commits)
 - [Ramificação](#ramificação)
@@ -17,6 +18,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Comandos Básicos
+
 | Comando               | Descrição                                 |
 |-----------------------|-------------------------------------------|
 | `git init`            | Inicializa um novo repositório Git.      |
@@ -28,6 +30,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Trabalhando com Commits
+
 | Comando                       | Descrição                                  |
 |-------------------------------|--------------------------------------------|
 | `git add <file>`              | Adiciona um arquivo à área de stage.      |
@@ -40,6 +43,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Ramificação
+
 | Comando                        | Descrição                                  |
 |--------------------------------|--------------------------------------------|
 | `git branch`                   | Lista todas as branches.                  |
@@ -53,6 +57,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Stashing
+
 | Comando                  | Descrição                                   |
 |--------------------------|---------------------------------------------|
 | `git stash`              | Salva mudanças não comitadas para uso futuro.|
@@ -60,11 +65,14 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 | `git stash list`         | Lista todos os stashes.                    |
 | `git stash apply`        | Aplica o stash mais recente.               |
 | `git stash apply <stash>`| Aplica um stash específico.                |
+| `git stash pop` | Aplica o stash mais recente e o remove da lista de stashes. |
+| `git stash pop <stash>` | Aplica um stash específico e o remove da lista de stashes. |
 | `git stash drop`         | Deleta um stash específico.                |
 
 ---
 
 ## Repositórios Remotos
+
 | Comando                                   | Descrição                                   |
 |-------------------------------------------|---------------------------------------------|
 | `git remote -v`                           | Mostra repositórios remotos.               |
@@ -77,6 +85,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Desfazendo Alterações
+
 | Comando                        | Descrição                                   |
 |--------------------------------|---------------------------------------------|
 | `git checkout -- <arquivo>`    | Descarta mudanças em um arquivo.            |
@@ -87,6 +96,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Tags
+
 | Comando                    | Descrição                                   |
 |----------------------------|---------------------------------------------|
 | `git tag`                  | Lista todas as tags.                       |
@@ -98,6 +108,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Colaboração
+
 | Comando                             | Descrição                                   |
 |-------------------------------------|---------------------------------------------|
 | `git pull`                          | Busca e faz merge de mudanças de uma branch remota.|
@@ -109,6 +120,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Comandos Avançados
+
 | Comando                        | Descrição                                   |
 |--------------------------------|---------------------------------------------|
 | `git diff`                     | Mostra mudanças entre commits, branches ou diretório de trabalho.|
@@ -120,6 +132,7 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 ---
 
 ## Translations
+
 - [English](README.md)
 - [Español](README.es.md)
 - [Française](README.fr.md)
