@@ -137,6 +137,7 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 - [Español](README.es.md)
 - [Française](README.fr.md)
 - [Português](README.pt.md)
+- [Deutsch](README.de.md)
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)

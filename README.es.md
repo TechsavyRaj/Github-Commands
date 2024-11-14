@@ -137,6 +137,7 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 - [Español](README.es.md)
 - [Française](README.fr.md)
 - [Português](README.pt.md)
+- [Deutsch](README.de.md)
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)
