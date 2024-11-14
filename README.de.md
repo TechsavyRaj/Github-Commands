@@ -10,7 +10,7 @@ Eine einfache Liste nützlicher Git-Befehle, die Entwickler häufig verwenden :-
 - [Stashing](#stashing)
 - [Remote-Repositories](#remote-repositories)
 - [Änderungen rückgängig machen](#änderungen-rückgängig-machen)
-- [Tags](#tags)
+- [Schilder](#tags)
 - [Zusammenarbeit](#zusammenarbeit)
 - [Erweiterte Befehle](#erweiterte-befehle)
 - [Spickzettel-Übersetzungen](#translations)
@@ -95,7 +95,7 @@ Eine einfache Liste nützlicher Git-Befehle, die Entwickler häufig verwenden :-
 
 ---
 
-## Tags
+## Schilder
 
 | Befehl                    | Beschreibung                                   |
 |---------------------------|-----------------------------------------------|
