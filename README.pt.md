@@ -141,3 +141,5 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 - [Türkçe](README.tr.md)
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)
+
+Created by TechsavyRaj - [[GitHub Profile Link]](https://github.com/TechsavyRaj)
