@@ -142,4 +142,4 @@
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)
 
-Created by TechsavyRaj - [[GitHub Profile Link]](https://github.com/TechsavyRaj)
+द्वारा निर्मित [TechsavyRaj](https://github.com/TechsavyRaj)

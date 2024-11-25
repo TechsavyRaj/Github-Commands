@@ -142,4 +142,4 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)
 
-Created by TechsavyRaj - [[GitHub Profile Link]](https://github.com/TechsavyRaj)
+Oluşturan [TechsavyRaj](https://github.com/TechsavyRaj)

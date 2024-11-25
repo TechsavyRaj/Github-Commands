@@ -142,4 +142,4 @@ Uma lista simples de comandos úteis do Git que os desenvolvedores costumam usar
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)
 
-Created by TechsavyRaj - [[GitHub Profile Link]](https://github.com/TechsavyRaj)
+Criado por [TechsavyRaj](https://github.com/TechsavyRaj)

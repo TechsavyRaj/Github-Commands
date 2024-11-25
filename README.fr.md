@@ -142,4 +142,4 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 - [日本語](README.jp.md)
 - [हिन्दी](README.hi.md)
 
-Created by TechsavyRaj - [[GitHub Profile Link]](https://github.com/TechsavyRaj)
+Créé par [TechsavyRaj](https://github.com/TechsavyRaj)
