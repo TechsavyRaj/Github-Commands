@@ -113,9 +113,13 @@ Una lista simple de comandos útiles de Git que los desarrolladores utilizan com
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Obtener y fusionar cambios de una rama remota.|
 | `git fetch`                         | Obtener cambios de un repositorio remoto.     |
-| `git rebase <branch>`               | Reaplicar commits en otra rama.               |
 | `git cherry-pick <commit>`          | Aplicar un commit específico a la rama actual.|
 | `git blame <file>`                  | Mostrar quién modificó cada línea de un archivo.|
+| `git rebase <branch>`           | Inicia un rebase en la rama especificada.               |
+| `git rebase --continue`         | Continúa el rebase después de resolver los conflictos.  |
+| `git rebase --abort`            | Cancela el rebase y restaura la rama.                  |
+| `git rebase -i <branch>`        | Inicia un rebase interactivo.                          |
+| `git push --force`              | Fuerza el envío de los cambios del rebase al repositorio remoto. |
 
 ---
 

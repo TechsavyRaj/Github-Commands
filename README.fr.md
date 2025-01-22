@@ -113,9 +113,13 @@ Une liste simple des commandes Git utiles que les développeurs utilisent couram
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Récupérer et fusionner les modifications d'une branche distante. |
 | `git fetch`                         | Récupérer les modifications d'un dépôt distant. |
-| `git rebase <branch>`               | Réappliquer les commits sur une autre branche. |
 | `git cherry-pick <commit>`          | Appliquer un commit spécifique à la branche actuelle. |
 | `git blame <file>`                  | Afficher qui a modifié chaque ligne d'un fichier. |
+| `git rebase <branch>`               | Démarrer un rebase sur la branche spécifiée.         |
+| `git rebase --continue`             | Continuer le rebase après avoir résolu les conflits. |
+| `git rebase --abort`                | Annuler le rebase et restaurer la branche.           |
+| `git rebase -i <branch>`            | Démarrer un rebase interactif.                       |
+| `git push --force`                  | Forcer l’envoi des modifications rebasées sur la branche distante. |
 
 ---
 

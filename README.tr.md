@@ -113,9 +113,13 @@ Geliştiricilerin sıkça kullandığı yararlı Git komutlarının basit bir li
 |-----------------------------------|-------------------------------------------|
 | `git pull`                        | Bir uzak branch'ten değişiklikleri alır ve birleştirir.|
 | `git fetch`                       | Bir uzak depodan değişiklikleri alır.     |
-| `git rebase <branch>`             | Commit'leri başka bir branch'in üzerine yeniden uygular.|
 | `git cherry-pick <commit>`        | Belirli bir commit'i mevcut branch'e uygular.|
 | `git blame <dosya>`               | Bir dosyanın her bir satırını kimin değiştirdiğini gösterir.|
+| `git rebase <branch>`          | Belirtilen dala rebase başlatır.                        |
+| `git rebase --continue`        | Çatışmalar çözüldükten sonra rebase işlemine devam eder. |
+| `git rebase --abort`           | Rebase işlemini iptal eder ve dalı eski haline getirir. |
+| `git rebase -i <branch>`       | Etkileşimli bir rebase başlatır.                        |
+| `git push --force`             | Rebase edilen değişiklikleri uzak dala zorla gönderir.  |
 
 ---
 

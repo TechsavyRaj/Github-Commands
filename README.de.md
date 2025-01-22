@@ -113,9 +113,13 @@ Eine einfache Liste nützlicher Git-Befehle, die Entwickler häufig verwenden :-
 |------------------------------------|-----------------------------------------------|
 | `git pull`                         | Änderungen von einem Remote-Branch holen und mergen. |
 | `git fetch`                        | Änderungen von einem Remote-Repository holen. |
-| `git rebase <branch>`              | Commits auf einen anderen Branch erneut anwenden. |
 | `git cherry-pick <commit>`         | Einen bestimmten Commit auf den aktuellen Branch anwenden. |
 | `git blame <file>`                 | Anzeigen, wer jede Zeile einer Datei geändert hat. |
+| `git rebase <branch>`          | Starte ein Rebase auf den angegebenen Branch.           |
+| `git rebase --continue`        | Fahre mit dem Rebase fort, nachdem Konflikte gelöst wurden. |
+| `git rebase --abort`           | Brich das Rebase ab und stelle den Branch wieder her.   |
+| `git rebase -i <branch>`       | Starte ein interaktives Rebase.                         |
+| `git push --force`             | Pushen von geänderten Rebase-Inhalten zum Remote-Branch. |
 
 ---
 

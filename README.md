@@ -112,10 +112,14 @@ A simple list of useful Git commands that developers commonly use :-
 | Command                             | Description                                   |
 |-------------------------------------|-----------------------------------------------|
 | `git pull`                          | Fetch and merge changes from a remote branch. |
-| `git fetch`                         | Fetch changes from a remote repository.      |
-| `git rebase <branch>`               | Reapply commits on top of another branch.    |
-| `git cherry-pick <commit>`          | Apply a specific commit to the current branch. |
-| `git blame <file>`                  | Show who modified each line of a file.       |
+| `git fetch`                         | Fetch changes from a remote repository.       |
+| `git cherry-pick <commit>`          | Apply a specific commit to the current branch.|
+| `git blame <file>`                  | Show who modified each line of a file.        |
+| `git rebase <branch>`               | Start a rebase onto the specified branch.     |
+| `git rebase --continue`             | Continue the rebase after resolving conflicts.|
+| `git rebase --abort`                | Abort the rebase and restore the branch.      |
+| `git rebase -i <branch>`            | Start an interactive rebase.                  |
+| `git push --force`                  | Push rebased changes to the remote branch.    |
 
 ---
 
